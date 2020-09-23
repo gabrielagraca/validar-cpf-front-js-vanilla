@@ -1,4 +1,4 @@
-const URL="https://cpfcomspring-gabrielagraca.herokuapp.com/"
+const URL="https://cpfcomspring-gabrielagraca.herokuapp.com/validacpf?cpf="
 function validar(){
 
 	var txtCPF = document.getElementById("txtCpf").value;
